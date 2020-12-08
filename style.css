@@ -1,0 +1,57 @@
+body{
+    background-color: hsl(185, 75%, 39%);
+    height: auto;
+}
+.im{
+    margin-top: -40px;
+    margin-right: 20px;
+}
+.main{ 
+    border-radius: 10px;
+    border: 1px solid white;
+    background: white;
+    width: 40%;
+    height: 400px;
+    margin-top: -30px;
+    margin-left: 150px;
+}
+
+.are{
+    height: 100px;
+  width: 100%;
+  border-radius: 5px;
+  }
+  .to{
+      margin-left: 200px;
+      margin-top: -10px;
+      border-radius: 50px;
+      border: 1px solid white;
+  }
+  .hel{
+      margin-left: 170px;
+  }
+.h{
+ opacity: 0.5;
+ margin-left: 20px;
+}
+.he{
+ color: white;
+ margin-left: 200px;
+ opacity: 0.6;
+ font-size: 20px;
+}
+.e{
+    margin-left: 60px;
+}
+.r{
+    margin-left: 90px;
+}
+.t{
+    margin-left: 50px;
+}
+.j{
+    opacity: 0.5;
+}
+.d{
+    margin-left: 1200px;
+}

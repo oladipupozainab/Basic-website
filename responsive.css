@@ -1,0 +1,34 @@
+@media screen and (max-width:800px){
+    body{
+        overflow: hidden;
+    }
+    .d{
+        margin-left: -500px;;
+    }
+    .main{ 
+        border-radius: 10px;
+        border: 1px solid white;
+        background: white;
+        width: 50%;
+        height: 410px;
+        margin-top: -30px;
+        margin-left: 150px;
+    }
+    
+    .to{
+        margin-left: 55px;
+    }
+    .hel{
+        margin-left: 10px;
+    }
+    .he{
+        margin-left: 50px;
+        color: black;
+    }
+    .e{
+        margin-left: 4px;
+    }
+    .r{
+        margin-left: 12px;
+    }
+}

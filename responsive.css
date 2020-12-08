@@ -1,4 +1,4 @@
-@media screen and (max-width:540px){
+@media screen and (max-width:500px){
     body{
         overflow: hidden;
     }
@@ -9,10 +9,9 @@
         border-radius: 10px;
         border: 1px solid white;
         background: white;
-        width: 50%;
-        
+        width: 80%;
         margin-top: -30px;
-        margin-left: 10px;
+        margin-left: 80px;
     }
     
     .to{
